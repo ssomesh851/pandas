@@ -1,2 +1,2 @@
 # pandas
-basic of pandas
+data analysis
